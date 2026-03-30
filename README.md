@@ -1,109 +1,90 @@
 # 👋 Hi, I'm Oleksandr Sulyma
 
-💻 **Junior Frontend Developer (Internship / Junior)**  
-📍 Poltava, Ukraine | Open to Remote / Hybrid
+💻 **Junior Fullstack Developer (Frontend focused)** 📍 Poltava, Ukraine | Open to Remote / Hybrid
 
-Junior Frontend Developer with a strong engineering background and hands-on experience in both individual and team projects.  
-Currently completing Fullstack Developer training at **IT School GoIT**, with a focus on Frontend development.  
-Experienced in building **responsive web applications**, integrating **REST APIs**, and collaborating in **Scrum-based teams**.  
-Quick learner, responsible team player, motivated to start a career in a **product company or startup**.
+[cite_start]Junior Frontend Developer with a strong engineering background and hands-on experience in both individual and team projects[cite: 33, 68]. [cite_start]Recently completed an 872-hour Fullstack Developer program at **IT School GoIT**[cite: 34, 69]. [cite_start]Experienced in building **responsive web applications**, integrating **REST APIs**, and collaborating in **Agile/Scrum teams**[cite: 35, 70]. [cite_start]Quick learner, responsible team player, motivated to start a career in a **product company or startup**[cite: 37, 38, 73].
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend**
-- HTML5, CSS3, SASS
-- JavaScript (ES6+), TypeScript
-- React, Next.js
-- Responsive / Mobile-First Design
+- [cite_start]HTML5, CSS3, SASS [cite: 14, 78]
+- [cite_start]JavaScript (ES6+), TypeScript [cite: 10, 12, 75]
+- [cite_start]React, Next.js (App Router, SSR) [cite: 9, 76]
+- [cite_start]Responsive / Mobile-First Design [cite: 15, 78]
 
 **State Management**
-- TanStack Query
-- Zustand
+- [cite_start]TanStack Query [cite: 17, 79]
+- [cite_start]Zustand [cite: 17, 79]
 
 **Tools & Technologies**
-- Git, GitHub
-- Vite
-- REST API, Axios
+- [cite_start]Git, GitHub [cite: 21, 80]
+- [cite_start]Vite [cite: 20, 80]
+- [cite_start]REST API, Axios [cite: 18, 80]
 - Browser DevTools
 
 **Methodologies**
-- Scrum
+- [cite_start]Scrum / Agile [cite: 21, 81]
 
 ---
 
 ## 💻 Featured Projects
 
 ### 📝 NoteHub — Notes Application (Individual Project)
-🔗 **Live Demo:** https://09-auth-liart-omega.vercel.app  
-🔗 **GitHub:** https://github.com/Oleksandr-Sulyma/09-auth  
+[cite_start]🔗 **Live Demo:** [note-hub-iota.vercel.app](https://note-hub-iota.vercel.app) [cite: 84]  
+🔗 **GitHub:** [Frontend Repository](https://github.com/Oleksandr-Sulyma/NoteHub) | [cite_start][Backend Repository](https://github.com/Oleksandr-Sulyma/nodejs-hw) [cite: 85]
 
-**Description:**  
-Web application for managing personal notes with authentication and protected routes.
+[cite_start]**Description:** Full-stack web application for managing personal notes with authentication and protected routes[cite: 86].
 
-**Tech Stack:**  
-Next.js, React, TypeScript, TanStack Query, Zustand, Axios
-
-**My Role:**  
-- Implemented authentication and protected routes  
-- CRUD operations for notes  
-- Search and filtering  
-- Auto-save drafts using localStorage  
+[cite_start]**Key Features:** - Implemented authentication and protected routes[cite: 90].
+- [cite_start]Full CRUD operations, search, and filtering.
+- [cite_start]Auto-save drafts and state synchronization[cite: 91, 92].
+- [cite_start]Integrated custom Node.js REST API via server-side proxy.
 
 ---
 
 ### 📚 Booksy — E-Commerce Website (Team Project)
-🔗 **Live Demo:** https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/  
-🔗 **GitHub:** https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE  
+[cite_start]🔗 **Live Demo:** [View Live](https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/) [cite: 94]  
+[cite_start]🔗 **GitHub:** [Project Repository](https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE) [cite: 95]
 
-**Description:**  
-Responsive e-commerce website for an online bookstore.
+[cite_start]**Description:** Responsive e-commerce website for an online bookstore[cite: 96].
 
-**Tech Stack:**  
-HTML, CSS, JavaScript, Vite, Axios
-
-**My Role:**  
-- Team Lead / Frontend Developer  
-- Coordinated team workflow  
-- Implemented UI components  
-- REST API integration  
-- Modal window system  
+[cite_start]**My Role:** - **Team Lead / Frontend Developer**[cite: 98].
+- [cite_start]Coordinated team workflow and task distribution[cite: 99].
+- [cite_start]Developed UI components and integrated REST API[cite: 100].
+- [cite_start]Implemented modal window system and responsive design[cite: 100].
 
 ---
 
 ### 🌱 Eco Bags — Landing Page (Team Project)
-🔗 **Live Demo:** https://vladyslav-myrhorodskyi.github.io/project-team-dream9/  
-🔗 **GitHub:** https://github.com/Oleksandr-Sulyma/project-team-dream9  
+[cite_start]🔗 **Live Demo:** [View Live](https://vladyslav-myrhorodskyi.github.io/project-team-dream9/) [cite: 102]  
+[cite_start]🔗 **GitHub:** [Project Repository](https://github.com/Oleksandr-Sulyma/project-team-dream9) [cite: 102]
 
-**Description:**  
-Responsive landing page for an eco-friendly products company.
+[cite_start]**Description:** Responsive landing page for an eco-friendly products company[cite: 103].
 
-**Tech Stack:**  
-HTML, CSS, JavaScript
-
-**My Role:**  
-- Scrum Master / Frontend Developer  
-- Implemented navigation and burger menu  
-- Coordinated tasks using Trello  
+[cite_start]**My Role:** - **Scrum Master / Frontend Developer**[cite: 104].
+- [cite_start]Implemented navigation, burger menu, and responsive layout[cite: 105].
+- [cite_start]Coordinated tasks and team workflow using Trello[cite: 106].
 
 ---
 
 ## 🗣️ Languages
 
-- 🇺🇦 **Ukrainian** — Native (Fluent)
-- 🇬🇧 **English** — A1 (Elementary)
+- [cite_start]🇺🇦 **Ukrainian** — Native (Fluent) [cite: 62, 124]
+- [cite_start]🇬🇧 **English** — Elementary (A1) [cite: 62, 125]
 
 ---
 
 ## 📫 How to reach me
 
-- **Email:** sulyma.ob@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/oleksandr-sulyma/  
-- **GitHub:** https://github.com/Oleksandr-Sulyma  
+- **Telegram:** [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma) 🚀
+- [cite_start]**Email:** [sulyma.ob@gmail.com](mailto:sulyma.ob@gmail.com) [cite: 3, 65]
+- [cite_start]**LinkedIn:** [linkedin.com/in/oleksandr-sulyma](https://www.linkedin.com/in/oleksandr-sulyma/) [cite: 4, 65]
+- [cite_start]**GitHub:** [github.com/Oleksandr-Sulyma](https://github.com/Oleksandr-Sulyma) [cite: 6, 65]
 
 ---
 
 ## 📊 GitHub Stats
 
-![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma&show_icons=true&hide_title=true)
+![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma&show_icons=true&hide_title=true&theme=tokyonight)
