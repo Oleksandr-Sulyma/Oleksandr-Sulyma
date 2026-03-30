@@ -1,90 +1,146 @@
 # 👋 Hi, I'm Oleksandr Sulyma
 
-💻 **Junior Fullstack Developer (Frontend focused)** 📍 Poltava, Ukraine | Open to Remote / Hybrid
+💻 **Fullstack Developer (Internship / Junior)**
+📍 Poltava, Ukraine | Open to Remote / Hybrid
 
-[cite_start]Junior Frontend Developer with a strong engineering background and hands-on experience in both individual and team projects[cite: 33, 68]. [cite_start]Recently completed an 872-hour Fullstack Developer program at **IT School GoIT**[cite: 34, 69]. [cite_start]Experienced in building **responsive web applications**, integrating **REST APIs**, and collaborating in **Agile/Scrum teams**[cite: 35, 70]. [cite_start]Quick learner, responsible team player, motivated to start a career in a **product company or startup**[cite: 37, 38, 73].
+Junior Frontend Developer with a strong technical background and hands-on experience in both team and individual projects. Recently completed an 872-hour **Fullstack Developer program at IT School GoIT**, with a primary focus on **Frontend development**.
+Experienced in building **responsive and user-friendly interfaces** with React and Next.js, integrating REST APIs, and collaborating in **Agile/Scrum teams**. Fast learner, detail-oriented, and highly responsible, motivated to contribute to **product companies or startups**.
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend**
-- [cite_start]HTML5, CSS3, SASS [cite: 14, 78]
-- [cite_start]JavaScript (ES6+), TypeScript [cite: 10, 12, 75]
-- [cite_start]React, Next.js (App Router, SSR) [cite: 9, 76]
-- [cite_start]Responsive / Mobile-First Design [cite: 15, 78]
+
+* HTML5, CSS3 (Flexbox, Grid, Responsive & Mobile-First)
+* SASS
+* JavaScript (ES6+), TypeScript
+* React, Next.js (Hooks, App Router, SSR, Routing)
 
 **State Management**
-- [cite_start]TanStack Query [cite: 17, 79]
-- [cite_start]Zustand [cite: 17, 79]
+
+* TanStack Query
+* Zustand
+
+**Backend (basic)**
+
+* Node.js (Express, REST API, authentication basics)
+
+**API & Data Handling**
+
+* REST API, Axios, localStorage
 
 **Tools & Technologies**
-- [cite_start]Git, GitHub [cite: 21, 80]
-- [cite_start]Vite [cite: 20, 80]
-- [cite_start]REST API, Axios [cite: 18, 80]
-- Browser DevTools
+
+* Git, GitHub (branches, pull requests)
+* Vite
+* Browser DevTools
 
 **Methodologies**
-- [cite_start]Scrum / Agile [cite: 21, 81]
+
+* Scrum / Agile
 
 ---
 
 ## 💻 Featured Projects
 
-### 📝 NoteHub — Notes Application (Individual Project)
-[cite_start]🔗 **Live Demo:** [note-hub-iota.vercel.app](https://note-hub-iota.vercel.app) [cite: 84]  
-🔗 **GitHub:** [Frontend Repository](https://github.com/Oleksandr-Sulyma/NoteHub) | [cite_start][Backend Repository](https://github.com/Oleksandr-Sulyma/nodejs-hw) [cite: 85]
+### 📝 NoteHub — Notes Application (Full-Stack Project)
 
-[cite_start]**Description:** Full-stack web application for managing personal notes with authentication and protected routes[cite: 86].
+🔗 **Live Demo:** [https://note-hub-iota.vercel.app](https://note-hub-iota.vercel.app)
+🔗 **GitHub FE:** [frontend](https://github.com/Oleksandr-Sulyma/NoteHub)
+🔗 **GitHub BE:** [backend](https://github.com/Oleksandr-Sulyma/nodejs-hw)
 
-[cite_start]**Key Features:** - Implemented authentication and protected routes[cite: 90].
-- [cite_start]Full CRUD operations, search, and filtering.
-- [cite_start]Auto-save drafts and state synchronization[cite: 91, 92].
-- [cite_start]Integrated custom Node.js REST API via server-side proxy.
+**Description:** Full-stack web application for managing personal notes with authentication and protected routes.
+
+**Tech Stack:** Next.js, React, TypeScript, TanStack Query, Zustand, Axios
+
+**Role:** Frontend Developer
+
+* Implemented authentication and protected routes
+* CRUD operations for notes with search, filtering, and auto-save drafts
+* Integrated custom Node.js REST API via server-side proxy
+* Ensured responsive and synchronized UI
 
 ---
 
 ### 📚 Booksy — E-Commerce Website (Team Project)
-[cite_start]🔗 **Live Demo:** [View Live](https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/) [cite: 94]  
-[cite_start]🔗 **GitHub:** [Project Repository](https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE) [cite: 95]
 
-[cite_start]**Description:** Responsive e-commerce website for an online bookstore[cite: 96].
+🔗 **Live Demo:** [https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/](https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/)
+🔗 **GitHub:** [https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE](https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE)
 
-[cite_start]**My Role:** - **Team Lead / Frontend Developer**[cite: 98].
-- [cite_start]Coordinated team workflow and task distribution[cite: 99].
-- [cite_start]Developed UI components and integrated REST API[cite: 100].
-- [cite_start]Implemented modal window system and responsive design[cite: 100].
+**Description:** Responsive e-commerce website for an online bookstore.
+
+**Tech Stack:** HTML, CSS, JavaScript, Vite, Axios
+
+**Role:** Team Lead / Frontend Developer
+
+* Coordinated team workflow and task distribution
+* Developed UI components and integrated REST API
+* Implemented modal windows and responsive design
 
 ---
 
 ### 🌱 Eco Bags — Landing Page (Team Project)
-[cite_start]🔗 **Live Demo:** [View Live](https://vladyslav-myrhorodskyi.github.io/project-team-dream9/) [cite: 102]  
-[cite_start]🔗 **GitHub:** [Project Repository](https://github.com/Oleksandr-Sulyma/project-team-dream9) [cite: 102]
 
-[cite_start]**Description:** Responsive landing page for an eco-friendly products company[cite: 103].
+🔗 **Live Demo:** [https://vladyslav-myrhorodskyi.github.io/project-team-dream9/](https://vladyslav-myrhorodskyi.github.io/project-team-dream9/)
+🔗 **GitHub:** [https://github.com/Oleksandr-Sulyma/project-team-dream9](https://github.com/Oleksandr-Sulyma/project-team-dream9)
 
-[cite_start]**My Role:** - **Scrum Master / Frontend Developer**[cite: 104].
-- [cite_start]Implemented navigation, burger menu, and responsive layout[cite: 105].
-- [cite_start]Coordinated tasks and team workflow using Trello[cite: 106].
+**Description:** Responsive landing page for an eco-friendly products company.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+**Role:** Scrum Master / Frontend Developer
+
+* Implemented navigation, burger menu, and responsive layout
+* Coordinated tasks and team workflow using Trello
+
+---
+
+## 💼 Work Experience
+
+**Military Service — Management Positions**
+*March 2014 – September 2024*
+
+* Planned and delegated tasks to teams, ensuring efficient workflow
+* Monitored project execution under strict deadlines
+* Trained and mentored personnel to improve performance
+* Successfully managed multiple projects simultaneously
+
+**Sales Representative — LLC “LITIZ”**
+*October 2024 – Present*
+
+* Communicated with clients, handled negotiations, and built relationships
+* Supported sales processes and ensured smooth workflow
+* Resolved client issues, maintaining high customer satisfaction
+* Coordinated with internal teams to optimize operations
+
+---
+
+## 🎓 Education
+
+* **IT School GoIT** — Fullstack Developer Program (2025 – 2026)
+* **Kyiv Military Institute of Telecommunications and Information Technologies** — Master’s Degree, Electronic Engineering (Automated Control Systems), 1990 – 1995
 
 ---
 
 ## 🗣️ Languages
 
-- [cite_start]🇺🇦 **Ukrainian** — Native (Fluent) [cite: 62, 124]
-- [cite_start]🇬🇧 **English** — Elementary (A1) [cite: 62, 125]
+* 🇺🇦 Ukrainian — Native, Fluent
+* 🇬🇧 English — Elementary (A1)
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 
-- **Telegram:** [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma) 🚀
-- [cite_start]**Email:** [sulyma.ob@gmail.com](mailto:sulyma.ob@gmail.com) [cite: 3, 65]
-- [cite_start]**LinkedIn:** [linkedin.com/in/oleksandr-sulyma](https://www.linkedin.com/in/oleksandr-sulyma/) [cite: 4, 65]
-- [cite_start]**GitHub:** [github.com/Oleksandr-Sulyma](https://github.com/Oleksandr-Sulyma) [cite: 6, 65]
+* **Telegram:** [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma) 🚀
+* **Email:** [sulyma.ob@gmail.com](mailto:sulyma.ob@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/oleksandr-sulyma/](https://www.linkedin.com/in/oleksandr-sulyma/)
+* **GitHub:** [https://github.com/Oleksandr-Sulyma](https://github.com/Oleksandr-Sulyma)
+* **Phone:** +380953280673
 
 ---
 
 ## 📊 GitHub Stats
 
-![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma&show_icons=true&hide_title=true&theme=tokyonight)
+![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma\&show_icons=true\&hide_title=true)
+
