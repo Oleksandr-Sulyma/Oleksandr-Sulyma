@@ -3,7 +3,7 @@
 💻 **Fullstack Developer (Internship / Junior)**
 📍 Poltava, Ukraine | Open to Remote / Hybrid
 
-Junior Frontend Developer with a strong technical background and hands-on experience in both team and individual projects. Recently completed an 872-hour **Fullstack Developer program at IT School GoIT**, with a primary focus on **Frontend development**.
+Junior Fullstack Developer with a strong technical background and hands-on experience in both team and individual projects. Recently completed an 872-hour **Fullstack Developer program at IT School GoIT**, with a primary focus on **Frontend development**.
 Experienced in building **responsive and user-friendly interfaces** with React and Next.js, integrating REST APIs, and collaborating in **Agile/Scrum teams**. Fast learner, detail-oriented, and highly responsible, motivated to contribute to **product companies or startups**.
 
 ---
