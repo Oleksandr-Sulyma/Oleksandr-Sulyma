@@ -1,146 +1,149 @@
-# 👋 Hi, I'm Oleksandr Sulyma
+# Hi, I'm Oleksandr Sulyma
 
-💻 **Fullstack Developer (Internship / Junior)**
-📍 Poltava, Ukraine | Open to Remote / Hybrid
+**Junior Fullstack Developer (Frontend-focused)**  
+Poltava, Ukraine | Open to Remote / Hybrid
 
-Junior Fullstack Developer with a strong technical background and hands-on experience in both team and individual projects. Recently completed an 872-hour **Fullstack Developer program at IT School GoIT**, with a primary focus on **Frontend development**.
-Experienced in building **responsive and user-friendly interfaces** with React and Next.js, integrating REST APIs, and collaborating in **Agile/Scrum teams**. Fast learner, detail-oriented, and highly responsible, motivated to contribute to **product companies or startups**.
+I build responsive, user-friendly web applications with **React**, **Next.js**, **TypeScript**, and modern frontend tooling.  
+I also have hands-on experience with **Node.js**, **Express**, **MongoDB**, REST APIs, authentication, and fullstack project structure.
 
----
-
-## 🧰 Tech Stack
-
-**Frontend**
-
-* HTML5, CSS3 (Flexbox, Grid, Responsive & Mobile-First)
-* SASS
-* JavaScript (ES6+), TypeScript
-* React, Next.js (Hooks, App Router, SSR, Routing)
-
-**State Management**
-
-* TanStack Query
-* Zustand
-
-**Backend (basic)**
-
-* Node.js (Express, REST API, authentication basics)
-
-**API & Data Handling**
-
-* REST API, Axios, localStorage
-
-**Tools & Technologies**
-
-* Git, GitHub (branches, pull requests)
-* Vite
-* Browser DevTools
-
-**Methodologies**
-
-* Scrum / Agile
+Recently completed an 872-hour **Fullstack Developer program at GoIT**, with practical experience in individual and team projects.  
+I am especially interested in frontend-heavy fullstack roles where I can work with real products, clean UI, API integration, and scalable application architecture.
 
 ---
 
-## 💻 Featured Projects
+## Tech Stack
 
-### 📝 NoteHub — Notes Application (Full-Stack Project)
-
-🔗 **Live Demo:** [https://note-hub-iota.vercel.app](https://note-hub-iota.vercel.app)
-🔗 **GitHub FE:** [frontend](https://github.com/Oleksandr-Sulyma/NoteHub)
-🔗 **GitHub BE:** [backend](https://github.com/Oleksandr-Sulyma/nodejs-hw)
-
-**Description:** Full-stack web application for managing personal notes with authentication and protected routes.
-
-**Tech Stack:** Next.js, React, TypeScript, TanStack Query, Zustand, Axios
-
-**Role:** Frontend Developer
-
-* Implemented authentication and protected routes
-* CRUD operations for notes with search, filtering, and auto-save drafts
-* Integrated custom Node.js REST API via server-side proxy
-* Ensured responsive and synchronized UI
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, CSS Modules  
+**State & Data:** Zustand, TanStack Query, Axios, REST API  
+**Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt  
+**Forms & Validation:** React Hook Form, Formik, Yup, Zod, Celebrate/Joi  
+**Tools:** Git, GitHub, Vite, Postman, Vercel, Render, MongoDB Atlas  
+**Workflow:** Scrum / Agile, team collaboration, pull requests
 
 ---
 
-### 📚 Booksy — E-Commerce Website (Team Project)
+## Featured Projects
 
-🔗 **Live Demo:** [https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/](https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/)
-🔗 **GitHub:** [https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE](https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE)
+### Delivery App — Fullstack Food Delivery Platform
 
-**Description:** Responsive e-commerce website for an online bookstore.
+**Live Demo:** https://delivery-app-frontend-two.vercel.app  
+**GitHub:** https://github.com/Oleksandr-Sulyma/delivery-app
+
+Fullstack food delivery application with shop selection, product catalog, cart management, checkout workflow, order history, and coupon logic.
+
+**Tech Stack:** Next.js, React, TypeScript, Node.js, Express, MongoDB, Zustand, Axios, Ant Design
+
+**Highlights:**
+- Built a fullstack architecture with separate frontend and backend applications
+- Implemented cart CRUD logic with persisted Zustand state
+- Integrated REST API for shops, products, orders, coupons, and order history
+- Added checkout flow with user data validation and order creation
+- Implemented filtering, sorting, pagination, and responsive UI
+
+---
+
+### NoteHub — Fullstack Notes Application
+
+**Live Demo:** https://note-hub-iota.vercel.app  
+**Frontend GitHub:** https://github.com/Oleksandr-Sulyma/NoteHub  
+**Backend GitHub:** https://github.com/Oleksandr-Sulyma/nodejs-hw
+
+Fullstack notes application with authentication, protected routes, CRUD operations, search, filtering, and profile management.
+
+**Tech Stack:** Next.js, React, TypeScript, TanStack Query, Zustand, Axios, Node.js, Express
+
+**Highlights:**
+- Implemented authentication flow and protected routes
+- Built CRUD functionality for notes with search and filtering
+- Integrated custom Node.js REST API through a server-side proxy
+- Used TanStack Query for efficient server state management
+- Added profile update flow with avatar preview and validation
+
+---
+
+### LearnLingo — Language Tutor Platform
+
+**Live Demo:** https://learn-lingo-liard.vercel.app  
+**GitHub:** https://github.com/Oleksandr-Sulyma/LearnLingo
+
+Frontend application for finding and booking language tutors with authentication, filters, favorites, booking form, and dynamic themes.
+
+**Tech Stack:** React, Vite, Firebase, React Router, Zustand, React Hook Form, Yup, Tailwind CSS
+
+**Highlights:**
+- Implemented Firebase authentication and persistent user sessions
+- Built tutor filtering by language, level, and hourly rate
+- Added private favorites page for authorized users
+- Created booking form with validation using React Hook Form and Yup
+- Implemented responsive UI and multiple color themes
+
+---
+
+### Booksy — E-Commerce Website
+
+**Live Demo:** https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/  
+**GitHub:** https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE
+
+Team e-commerce project for an online bookstore with dynamic content loading, modals, sliders, and responsive layout.
 
 **Tech Stack:** HTML, CSS, JavaScript, Vite, Axios
 
 **Role:** Team Lead / Frontend Developer
 
-* Coordinated team workflow and task distribution
-* Developed UI components and integrated REST API
-* Implemented modal windows and responsive design
+**Highlights:**
+- Coordinated team workflow and task distribution
+- Integrated REST API for dynamic book loading
+- Implemented UI components, modals, and responsive sections
+- Worked with Git branches and pull requests in a team environment
 
 ---
 
-### 🌱 Eco Bags — Landing Page (Team Project)
+## Work Experience
 
-🔗 **Live Demo:** [https://vladyslav-myrhorodskyi.github.io/project-team-dream9/](https://vladyslav-myrhorodskyi.github.io/project-team-dream9/)
-🔗 **GitHub:** [https://github.com/Oleksandr-Sulyma/project-team-dream9](https://github.com/Oleksandr-Sulyma/project-team-dream9)
+### Sales Representative — LLC “LITIZ”
+**October 2024 – Present**
 
-**Description:** Responsive landing page for an eco-friendly products company.
+- Communicate with clients and support negotiation processes
+- Maintain client relationships and resolve operational issues
+- Coordinate with internal teams to support smooth workflow
 
-**Tech Stack:** HTML, CSS, JavaScript
+### Military Service — Management Positions
+**March 2014 – September 2024**
 
-**Role:** Scrum Master / Frontend Developer
-
-* Implemented navigation, burger menu, and responsive layout
-* Coordinated tasks and team workflow using Trello
-
----
-
-## 💼 Work Experience
-
-**Military Service — Management Positions**
-*March 2014 – September 2024*
-
-* Planned and delegated tasks to teams, ensuring efficient workflow
-* Monitored project execution under strict deadlines
-* Trained and mentored personnel to improve performance
-* Successfully managed multiple projects simultaneously
-
-**Sales Representative — LLC “LITIZ”**
-*October 2024 – Present*
-
-* Communicated with clients, handled negotiations, and built relationships
-* Supported sales processes and ensured smooth workflow
-* Resolved client issues, maintaining high customer satisfaction
-* Coordinated with internal teams to optimize operations
+- Managed teams, workflows, and task execution under strict deadlines
+- Planned, delegated, and monitored operational activities
+- Trained and mentored personnel
+- Developed strong responsibility, discipline, leadership, and problem-solving skills
 
 ---
 
-## 🎓 Education
+## Education
 
-* **IT School GoIT** — Fullstack Developer Program (2025 – 2026)
-* **Kyiv Military Institute of Telecommunications and Information Technologies** — Master’s Degree, Electronic Engineering (Automated Control Systems), 1990 – 1995
+**IT School GoIT** — Fullstack Developer Program  
+2025 – 2026
 
----
-
-## 🗣️ Languages
-
-* 🇺🇦 Ukrainian — Native, Fluent
-* 🇬🇧 English — Elementary (A1)
+**Kyiv Military Institute of Telecommunications and Information Technologies**  
+Specialist Degree, Electronic Engineering  
+1990 – 1995
 
 ---
 
-## 📫 Contact
+## Languages
 
-* **Telegram:** [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma) 🚀
-* **Email:** [sulyma.ob@gmail.com](mailto:sulyma.ob@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/oleksandr-sulyma/](https://www.linkedin.com/in/oleksandr-sulyma/)
-* **GitHub:** [https://github.com/Oleksandr-Sulyma](https://github.com/Oleksandr-Sulyma)
-* **Phone:** +380953280673
+- Ukrainian — Native
+- English — Elementary / improving
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma\&show_icons=true\&hide_title=true)
+- Email: [sulyma.ob@gmail.com](mailto:sulyma.ob@gmail.com)
+- LinkedIn: [linkedin.com/in/oleksandr-sulyma](https://www.linkedin.com/in/oleksandr-sulyma/)
+- Telegram: [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma)
+- GitHub: [github.com/Oleksandr-Sulyma](https://github.com/Oleksandr-Sulyma)
 
+---
+
+## GitHub Stats
+
+![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma&show_icons=true&hide_title=true)
