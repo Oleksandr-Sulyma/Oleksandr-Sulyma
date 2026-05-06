@@ -1,149 +1,102 @@
-# Hi, I'm Oleksandr Sulyma
+# Hi, I'm Oleksandr Sulyma 👋
 
-**Junior Fullstack Developer (Frontend-focused)**  
-Poltava, Ukraine | Open to Remote / Hybrid
+**Junior Fullstack Developer (Frontend-focused)** | Poltava, Ukraine | Open to Remote / Hybrid
 
 I build responsive, user-friendly web applications with **React**, **Next.js**, **TypeScript**, and modern frontend tooling.  
-I also have hands-on experience with **Node.js**, **Express**, **MongoDB**, REST APIs, authentication, and fullstack project structure.
+I also have hands-on experience with **Node.js**, **Express**, **MongoDB**, REST APIs, authentication, and fullstack project architecture.
 
-Recently completed an 872-hour **Fullstack Developer program at GoIT**, with practical experience in individual and team projects.  
-I am especially interested in frontend-heavy fullstack roles where I can work with real products, clean UI, API integration, and scalable application architecture.
+Recently completed an 872-hour **Fullstack Developer program at GoIT**. I am especially interested in frontend-heavy fullstack roles where I can work with real products, clean UI, and scalable architecture.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, CSS Modules  
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Ant Design  
 **State & Data:** Zustand, TanStack Query, Axios, REST API  
-**Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt  
-**Forms & Validation:** React Hook Form, Formik, Yup, Zod, Celebrate/Joi  
-**Tools:** Git, GitHub, Vite, Postman, Vercel, Render, MongoDB Atlas  
-**Workflow:** Scrum / Agile, team collaboration, pull requests
+**Backend:** Node.js, Express, MongoDB, Mongoose, JWT, Firebase (Auth & DB)  
+**Forms & Validation:** React Hook Form, Yup, Zod, Celebrate/Joi  
+**Tools:** Git, GitHub, Vite, Postman, Vercel, Render, MongoDB Atlas
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Delivery App — Fullstack Food Delivery Platform
+### [Delivery App](https://delivery-app-frontend-two.vercel.app) — Fullstack Food Delivery Platform
+**Role: Fullstack Developer (Individual Project)** *A comprehensive food delivery system with integrated frontend and backend architectures.*
 
-**Live Demo:** https://delivery-app-frontend-two.vercel.app  
-**GitHub:** https://github.com/Oleksandr-Sulyma/delivery-app
+**GitHub:** [Full Repository](https://github.com/Oleksandr-Sulyma/delivery-app)  
+**Tech:** Next.js, TypeScript, Node.js, Express, MongoDB, Zustand, Axios, Ant Design
 
-Fullstack food delivery application with shop selection, product catalog, cart management, checkout workflow, order history, and coupon logic.
-
-**Tech Stack:** Next.js, React, TypeScript, Node.js, Express, MongoDB, Zustand, Axios, Ant Design
-
-**Highlights:**
-- Built a fullstack architecture with separate frontend and backend applications
-- Implemented cart CRUD logic with persisted Zustand state
-- Integrated REST API for shops, products, orders, coupons, and order history
-- Added checkout flow with user data validation and order creation
-- Implemented filtering, sorting, pagination, and responsive UI
+**Key Achievements:**
+- Developed a complete Fullstack solution with both client and server logic in a single managed repository.
+- Implemented complex cart CRUD logic with persisted Zustand state for seamless user experience.
+- Built a custom REST API to manage shops, products, and order lifecycles.
+- Integrated order history and coupon logic with real-time validation and responsive UI.
 
 ---
 
-### NoteHub — Fullstack Notes Application
+### [NoteHub](https://note-hub-iota.vercel.app) — Fullstack Notes Application
+**Role: Fullstack Developer (Individual Project)** *A secure personal productivity tool for managing notes with auto-save features.*
 
-**Live Demo:** https://note-hub-iota.vercel.app  
-**Frontend GitHub:** https://github.com/Oleksandr-Sulyma/NoteHub  
-**Backend GitHub:** https://github.com/Oleksandr-Sulyma/nodejs-hw
+**GitHub:** [Frontend Repository](https://github.com/Oleksandr-Sulyma/NoteHub) | [Backend Repository](https://github.com/Oleksandr-Sulyma/nodejs-hw)  
+**Tech:** Next.js, TypeScript, TanStack Query, Zustand, Node.js, Express, MongoDB
 
-Fullstack notes application with authentication, protected routes, CRUD operations, search, filtering, and profile management.
-
-**Tech Stack:** Next.js, React, TypeScript, TanStack Query, Zustand, Axios, Node.js, Express
-
-**Highlights:**
-- Implemented authentication flow and protected routes
-- Built CRUD functionality for notes with search and filtering
-- Integrated custom Node.js REST API through a server-side proxy
-- Used TanStack Query for efficient server state management
-- Added profile update flow with avatar preview and validation
+**Key Achievements:**
+- Engineered a full authentication flow and protected route system to ensure data privacy.
+- Implemented server-side proxying for secure and efficient API communication.
+- Optimized data fetching, caching, and state synchronization using TanStack Query.
+- Developed a user profile system featuring secure avatar uploads and strict data validation.
 
 ---
 
-### LearnLingo — Language Tutor Platform
+### [LearnLingo](https://learn-lingo-liard.vercel.app) — Language Tutor Platform
+**Role: Frontend Developer (Individual Project)** *A tutor-booking platform with dynamic UI, advanced filtering, and Firebase integration.*
 
-**Live Demo:** https://learn-lingo-liard.vercel.app  
-**GitHub:** https://github.com/Oleksandr-Sulyma/LearnLingo
+**GitHub:** [Full Repository](https://github.com/Oleksandr-Sulyma/LearnLingo)  
+**Tech:** React, Vite, Firebase (Auth/DB), React Router, Zustand, React Hook Form, Tailwind CSS
 
-Frontend application for finding and booking language tutors with authentication, filters, favorites, booking form, and dynamic themes.
-
-**Tech Stack:** React, Vite, Firebase, React Router, Zustand, React Hook Form, Yup, Tailwind CSS
-
-**Highlights:**
-- Implemented Firebase authentication and persistent user sessions
-- Built tutor filtering by language, level, and hourly rate
-- Added private favorites page for authorized users
-- Created booking form with validation using React Hook Form and Yup
-- Implemented responsive UI and multiple color themes
+**Key Achievements:**
+- Architected the frontend with deep **Firebase** integration for real-time data and authentication.
+- Developed an advanced multi-criteria filtering system (language, level, and hourly rate).
+- Created a highly customizable UI with 5 dynamic color themes and mobile-first responsiveness.
+- Built a robust multi-step booking validation system using React Hook Form and Yup.
 
 ---
 
-### Booksy — E-Commerce Website
+### [Booksy](https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/) — E-Commerce Website
+**Role: Team Lead / Frontend Developer (Team Project)** *An online bookstore focused on high performance and collaborative development.*
 
-**Live Demo:** https://oleksandr-sulyma.github.io/project-SURVIVORS-CODE/  
-**GitHub:** https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE
+**GitHub:** [Repository](https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE)  
+**Tech:** HTML5, CSS3, JavaScript, Vite, Axios
 
-Team e-commerce project for an online bookstore with dynamic content loading, modals, sliders, and responsive layout.
-
-**Tech Stack:** HTML, CSS, JavaScript, Vite, Axios
-
-**Role:** Team Lead / Frontend Developer
-
-**Highlights:**
-- Coordinated team workflow and task distribution
-- Integrated REST API for dynamic book loading
-- Implemented UI components, modals, and responsive sections
-- Worked with Git branches and pull requests in a team environment
+**Key Achievements:**
+- **Led a cross-functional team**, managing task distribution, Git workflow, and technical coordination.
+- Supervised Git branching and Pull Request strategies to ensure code quality and project stability.
+- Integrated REST APIs for dynamic content rendering and complex UI interactions.
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
-### Sales Representative — LLC “LITIZ”
-**October 2024 – Present**
+**Sales Representative — LLC “LITIZ”** | Oct 2024 – Present  
+*Managing client relations, supporting negotiations, and optimizing sales workflows.*
 
-- Communicate with clients and support negotiation processes
-- Maintain client relationships and resolve operational issues
-- Coordinate with internal teams to support smooth workflow
-
-### Military Service — Management Positions
-**March 2014 – September 2024**
-
-- Managed teams, workflows, and task execution under strict deadlines
-- Planned, delegated, and monitored operational activities
-- Trained and mentored personnel
-- Developed strong responsibility, discipline, leadership, and problem-solving skills
+**Military Service — Management Positions** | Mar 2014 – Sep 2024  
+*10 years of leadership and operational management. Focused on team discipline, strategic planning, and problem-solving in high-pressure environments.*
 
 ---
 
-## Education
+## 🎓 Education
 
-**IT School GoIT** — Fullstack Developer Program  
-2025 – 2026
-
-**Kyiv Military Institute of Telecommunications and Information Technologies**  
-Specialist Degree, Electronic Engineering  
-1990 – 1995
+- **IT School GoIT** — Fullstack Developer Program (2025 – 2026)
+- **Kyiv Military Institute of Telecommunications** — Specialist in Electronic Engineering (1990 – 1995)
 
 ---
 
-## Languages
+## 📫 Contact & Stats
 
-- Ukrainian — Native
-- English — Elementary / improving
+- **Email:** sulyma.ob@gmail.com
+- **LinkedIn:** [linkedin.com/in/oleksandr-sulyma](https://www.linkedin.com/in/oleksandr-sulyma/)
+- **Telegram:** [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma)
 
----
-
-## Contact
-
-- Email: [sulyma.ob@gmail.com](mailto:sulyma.ob@gmail.com)
-- LinkedIn: [linkedin.com/in/oleksandr-sulyma](https://www.linkedin.com/in/oleksandr-sulyma/)
-- Telegram: [@Oleksandr_Sulyma](https://t.me/Oleksandr_Sulyma)
-- GitHub: [github.com/Oleksandr-Sulyma](https://github.com/Oleksandr-Sulyma)
-
----
-
-## GitHub Stats
-
-![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma&show_icons=true&hide_title=true)
+![Oleksandr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Sulyma&show_icons=true&hide_title=true&theme=radical)
